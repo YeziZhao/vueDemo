@@ -1,0 +1,20 @@
+{"lang":"zh-CN",
+"pages":{
+  "login":{
+     "title":"系统登录",
+     "placeholderUsername":"用户名",
+     "placeholderPassword":"密码",
+     "errorUsername":"请输入用户名",
+     "errorPassword":"请输入密码",
+     "btnText":"登录",
+     "validate":"不合法"
+  }
+},
+"routes":{
+
+},
+"components":{
+
+}
+}
+

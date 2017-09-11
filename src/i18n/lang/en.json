@@ -1,0 +1,41 @@
+{
+  "THEME": "Theme",
+  "NOT_FOUND": "Not Found",
+  "HELLO": "Hello",
+
+  "routes": {
+    "Hello": {
+      "desc": "welcome"
+    },
+    "Home": {
+      "desc": "home"
+    },
+    "Login": {
+      "desc": "login"
+    },
+    "example_layout": {
+      "desc": "example-layout"
+    },
+    "example_table": {
+      "desc": "example-table"
+    },
+    "example_form": {
+      "desc": "example-form"
+    },
+    "example_dialog": {
+      "desc": "example-dialog"
+    },
+    "example_pie": {
+      "desc": "echarts-pie"
+    },
+    "example_map": {
+      "desc": "echarts-map"
+    },
+    "example_bar": {
+      "desc": "echarts-bar"
+    },
+    "example_line": {
+      "desc": "echarts-line"
+    }
+  }
+}
